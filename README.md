@@ -20,7 +20,6 @@ Com um **chat inteligente**, **cronogramas dinâmicos** e **interface adaptável
 - **Frontend:** [Vite](https://vitejs.dev/), [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/)  
 - **Estilização:** [TailwindCSS](https://tailwindcss.com/)  
 - **Backend (futuro):** Node.js, Express, Banco de Dados (Firebase / Supabase / MongoDB)  
-- **IA:** OpenAI API ou modelo LLM customizado  
 
 ---
 
