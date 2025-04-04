@@ -4,6 +4,8 @@ Mithras é uma plataforma educacional baseada em Inteligência Artificial, proje
 
 
 ✨ Funcionalidades
+
+
 ✅ Chat IA Personalizado – Converse com a IA sobre qualquer matéria e tire dúvidas em tempo real.
 🎨 Interface Temática – A aparência do app muda conforme a matéria escolhida.
 📅 Cronograma Inteligente – Monte e edite um plano de estudos com IA.
